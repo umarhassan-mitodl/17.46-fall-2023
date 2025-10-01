@@ -1,0 +1,22 @@
+leftnav:
+- identifier: 3d153ee0-3b07-4324-b7c7-18909a310855
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e682a89a-903e-4060-9b57-e27dd5442386
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 5d1293d8-efc1-4554-9d8e-ca2492544a0d
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 2896daa6-5165-41af-ac51-8bea51aec5f2
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: 8b574ab4-2b3a-4193-9a9b-f6873085059d
+  name: Policy Memorandum Project
+  pageRef: /pages/policy-memorandum-project
+  parent: 2896daa6-5165-41af-ac51-8bea51aec5f2
+  weight: 10

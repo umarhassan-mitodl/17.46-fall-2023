@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Security Studies"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "c289b5aa-f4b3-415a-ba3f-e45ce2817919"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "64b67589-aa9c-46bc-a97d-3360f9e9e2ea",
+    "website": "us-national-security-policy"
+  },
+  "course_title": "U.S. National Security Policy",
+  "hide_download": true,
+  "course_description": "This course provides a comprehensive introduction to the making of US foreign and national security policy. It examines the laws that guide policy-making, studies the actors and organizations involved in the inter-agency process, and explores how interaction between the executive, legislative, and judicial branches shapes policy development and implementation. Students acquire practical experience through policy writing and a crisis simulation. This course is designed for students interested in international relations, security, and public policy.",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.46",
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Readings",
+    "Written Assignments"
+  ],
+  "site_uid": "43a5ea48-cc87-4ea7-a57c-88c2280c5612",
+  "site_short_id": "17.46-fall-2023",
+  "site_url_path": "courses/17-46-u-s-national-security-policy-fall-2023"
+}
